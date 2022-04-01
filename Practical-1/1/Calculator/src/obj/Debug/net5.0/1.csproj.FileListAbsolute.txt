@@ -1,0 +1,16 @@
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.exe
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.deps.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.runtimeconfig.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\ref\1.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\bin\Debug\net5.0\1.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\ref\1.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\1\obj\Debug\net5.0\1.genruntimeconfig.cache

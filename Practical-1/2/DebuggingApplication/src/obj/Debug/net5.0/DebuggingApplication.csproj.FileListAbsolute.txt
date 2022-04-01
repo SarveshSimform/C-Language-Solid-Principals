@@ -1,0 +1,16 @@
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.exe
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.deps.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.runtimeconfig.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.runtimeconfig.dev.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\ref\DebuggingApplication.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\bin\Debug\net5.0\DebuggingApplication.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\ref\DebuggingApplication.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P1\2\DebuggingApplication\src\obj\Debug\net5.0\DebuggingApplication.genruntimeconfig.cache
