@@ -1,0 +1,16 @@
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.exe
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.deps.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.runtimeconfig.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.runtimeconfig.dev.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\ref\Pratical_3_Abstraction.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\bin\Debug\net5.0\Pratical_3_Abstraction.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\ref\Pratical_3_Abstraction.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Abstraction\Pratical_3_Abstraction\obj\Debug\net5.0\Pratical_3_Abstraction.genruntimeconfig.cache
