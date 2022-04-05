@@ -1,0 +1,31 @@
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.exe
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.deps.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.runtimeconfig.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.runtimeconfig.dev.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\ref\Pratical_3_Inheritance.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\ref\Pratical_3_Inheritance.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.genruntimeconfig.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.exe
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.deps.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.runtimeconfig.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.runtimeconfig.dev.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\ref\Pratical_3_Inheritance.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\bin\Debug\net5.0\Pratical_3_Inheritance.pdb
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.csproj.AssemblyReference.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.AssemblyInfoInputs.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.AssemblyInfo.cs
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\ref\Pratical_3_Inheritance.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.pdb
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-3\Pratical_3_Inheritance\Pratical_3_Inheritance\obj\Debug\net5.0\Pratical_3_Inheritance.genruntimeconfig.cache
