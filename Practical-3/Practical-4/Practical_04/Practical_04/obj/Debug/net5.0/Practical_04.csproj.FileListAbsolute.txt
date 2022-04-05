@@ -1,0 +1,32 @@
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.exe
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.deps.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.runtimeconfig.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.runtimeconfig.dev.json
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\ref\Practical_04.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\ref\Practical_04.dll
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.pdb
+C:\Users\dhruvin\Documents\Asp.net\C# pratical\P4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.genruntimeconfig.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.exe
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.deps.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.runtimeconfig.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.runtimeconfig.dev.json
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\ref\Practical_04.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\bin\Debug\net5.0\Practical_04.pdb
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.csproj.AssemblyReference.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.AssemblyInfoInputs.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.AssemblyInfo.cs
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.csproj.CoreCompileInputs.cache
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\ref\Practical_04.dll
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.pdb
+C:\Users\sarvesh\Downloads\C-Sharp-Language-Solid-Principals-main\Practical-4\Practical_04\Practical_04\obj\Debug\net5.0\Practical_04.genruntimeconfig.cache
